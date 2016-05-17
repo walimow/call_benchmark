@@ -5,4 +5,4 @@ as functon
 by a base class
 as std:function (!)
 
-(todo: set here the actual sample main.cpp)
+
